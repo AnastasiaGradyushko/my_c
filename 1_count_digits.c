@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-/* strlen() */
 int count_digits(const char *str)
 {
     int i = 0;
