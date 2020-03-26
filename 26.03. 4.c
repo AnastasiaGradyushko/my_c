@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <limits.h>
-#define M 3 /*строк*/
-#define N 4 /*столбцов*/
+#define M 3 /*Г±ГІГ°Г®ГЄ*/
+#define N 4 /*Г±ГІГ®Г«ГЎГ¶Г®Гў*/
 
 int main()
 {
