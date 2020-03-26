@@ -20,7 +20,7 @@ int main()
       printf("\n");
   }
       for(j = 0; j < N; j++){
-         min = a[0,j];
+         min = a[0][j];
         for(i = 0; i < M; i++)
         if (a[i][j]<min) min = a[i][j];
        printf("%5d", min);
